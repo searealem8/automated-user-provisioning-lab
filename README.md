@@ -37,3 +37,6 @@ Paste all the text exactly as is into the README.md editor on GitHub, including 
 Let me know if you want me to walk you through the editing on GitHub step-by-step!
 3. Use `welcome_email.md` as a template for onboarding emails.
 Created by Seare — IT Support Specialist in training.
+
+
+
