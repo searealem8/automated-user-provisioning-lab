@@ -16,27 +16,10 @@ This project simulates an IT Support onboarding process using Python and Bash sc
    ```bash
    python3 add_users.py
 
-bash create_home_dirs.sh
-
-
----
-
-### Here’s what you do:
-
-- When you edit README.md, just paste the entire README content I sent you — all at once.  
-- That includes item 2 with the Bash command wrapped inside triple backticks (```bash ... ```).  
-- The triple backticks create a code block in markdown, which formats those lines as commands to run in the terminal.
-
----
-
-**In short:**  
-Paste all the text exactly as is into the README.md editor on GitHub, including the numbered steps and the code blocks inside the backticks.
-
----
-
-Let me know if you want me to walk you through the editing on GitHub step-by-step!
-3. Use `welcome_email.md` as a template for onboarding emails.
+   bash create_home_dirs.sh
 Created by Seare — IT Support Specialist in training.
+
+
 
 
 
